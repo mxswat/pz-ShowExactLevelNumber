@@ -1,0 +1,5 @@
+version=1
+title=Show Exact Level Number
+description=This mod shows exactly the level *number* of the skill you are selecting 
+tags=
+visibility=public
