@@ -1,5 +1,6 @@
 version=1
+id=2837506142
 title=Show Exact Level Number
-description=This mod shows exactly the level *number* of the skill you are selecting 
-tags=
+description=This mod shows exactly the level *number* of the skill you are selecting
+tags=Build 41;Interface;Misc;Traits
 visibility=public
