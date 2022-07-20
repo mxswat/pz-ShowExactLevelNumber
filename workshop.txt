@@ -1,6 +1,7 @@
 version=1
 id=2837506142
 title=Show Exact Level Number
-description=This mod shows exactly the level *number* of the skill you are selecting
+description=This mod shows precisely the level *number* of the skill you select.
+description=Works in Single and Multiplayer!
 tags=Build 41;Interface;Misc;Traits
 visibility=public
